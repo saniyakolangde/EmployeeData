@@ -1,6 +1,8 @@
 # Employee Data
 
-We have two datasets (Source: Kaggel) 1) general employee data 2) employee survey results about job satisfaction, work life balance and environment satisfaction.
+We have two datasets (Source - Kaggel): 
+1) General employee information 
+2) Employee survey results about job satisfaction, work life balance and environment satisfaction.
 
 We will be carrying out SQL and Python queries on dataset to find co-relations between the two data sets.
 
