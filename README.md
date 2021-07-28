@@ -8,4 +8,4 @@ We will be carrying out SQL and Python queries on dataset to find co-relations b
 
 I have majorly used joins and pivot tables in this project. I have demostated how to carry out the same quireies in SQL and Python.
 
-I have used Microspft Azure - Databricks platform to carry out the data procesing and mounted the data source from Storage Account in Azure.
+I have used Microsoft Azure - Databricks platform to carry out the data procesing and mounted the data source from Storage Account in Azure.
